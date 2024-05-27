@@ -8,10 +8,8 @@ Toplam oyun süresi de 60 saniye belirend
 # 2) Ölçüm :
 -İşlem Yeteneği:
 Oyunun alt kısmında verilen çarpma ve toplama işlemeni yapması ile ölçülendirilecek.
-
 -Hafıza:
 Çözülen işlemin cevabını işlem başına verilen sürede çözüp doğru yuvarlağı işaretlemek.
-
 -Dikkat:
 Hareket halindeki yuvarlakların tam içerisine doğru hedef almaya dikkat etmek.
 
