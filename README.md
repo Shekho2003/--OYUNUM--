@@ -1,6 +1,8 @@
 # Oyunumuzu Görelim ->
 Video: https://youtu.be/Z00Lx8M9vmo?si=LwaVQbbdpJyqTsQA
 
+# ______________________________________________________________
+
 # CARPARİM OYUNU
 Oyunumuzun amacı hesaplama yeteneği, zeka ve dikkat üzerinde yoğunlaşıp bunları ölçmeye dair bir sistem hazırlamak. Bundan yola çıkarak oyunda verilen bir matematik işlemini (hesaplama yeteneği) çözmek (hafıza) ve sistemde hareket halindeki toplara isabetli bir şekilde atış yapmak(dikkat). 
 Bu üç özelliği ön planda tutarak çalışanları sıkmadan onların seviyelerini rahat ve etkili bir biçimde belirlemenin yolunu bulmuş oluyoruz. 
