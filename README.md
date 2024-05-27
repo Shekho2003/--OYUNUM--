@@ -31,7 +31,7 @@ Yanlış cevaba ise -20 puan ele ediyor.
 -80> puan: Başarısız
 
 
-# // Oyunun Arayüz Tasarımı //
+# - Oyunun Arayüz Tasarımı -
 
 # ANA-MENÜ 
 1.OYUNA BUTTON 2.AYARLAR 3.ÇIKIŞ
