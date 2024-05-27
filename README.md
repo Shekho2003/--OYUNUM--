@@ -19,6 +19,11 @@ dönen Roket 6. Uzay tabak
 2.YANLIŞ İşareti
 #Mermizi yazılan denklemin yanlış cevabına vurma durumu..
 
+![Baslangıc](https://i.hizliresim.com/aio72tp.png)
+3.her soruya ayrılan süre
+#Soruya ayrılan süreyi bitince direk yukarda berittiğimiz
+2.durumu (yanlış işareti ekrana göstermektedir).
+
 
 
 
