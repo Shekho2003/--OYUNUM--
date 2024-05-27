@@ -12,6 +12,8 @@ dönen Roket 6. Uzay tabak
 7. Sağ (image)-> a.dogru işaret b.yanlış işaret c.her soru için gerisayım 8. Sağ (image) oyunun gerisayımı 9. Sorular..‘dan Oluşan bir oyunumuzu tanımlıyoruz…
 
 ![Baslangıc](https://i.hizliresim.com/o2nn4c7.png)
+1.DOĞRU İşareti
+#Mermizi yazılan denklemin doğru cevabına vurma durumu.
 
 
 
