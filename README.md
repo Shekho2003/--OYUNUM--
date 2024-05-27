@@ -31,7 +31,7 @@ Yanlış cevaba ise -20 puan ele ediyor.
 -80> puan: Başarısız
 
 
-# Oyunun Arayüz Tasarımı
+# 4) Oyunun Arayüz Tasarımı
 
 
 ![Baslangıc](https://i.hizliresim.com/dsout7n.png) 
