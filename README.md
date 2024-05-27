@@ -11,6 +11,8 @@ doğru şık) 5. Yıldızlı Merileri balonlara ateş eden ve 45 derece
 dönen Roket 6. Uzay tabak 
 7. Sağ (image)-> a.dogru işaret b.yanlış işaret c.her soru için gerisayım 8. Sağ (image) oyunun gerisayımı 9. Sorular..‘dan Oluşan bir oyunumuzu tanımlıyoruz…
 
+![Baslangıc](https://i.hizliresim.com/o2nn4c7.png)
+
 
 
 
