@@ -15,7 +15,7 @@ dönen Roket 6. Uzay tabak
 1.DOĞRU İşareti
 #Mermizi yazılan denklemin doğru cevabına vurma durumu.
 
-![Baslangıc](https://i.hizliresim.com/6cunlcr.png)
+![Baslangıc](https://i.hizliresim.com/33or4ne.png)
 2.YANLIŞ İşareti
 #Mermizi yazılan denklemin yanlış cevabına vurma durumu..
 
