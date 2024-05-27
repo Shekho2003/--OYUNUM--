@@ -1,11 +1,11 @@
 # --OYUNUM--
-# 1)  Oyunun Amacı:
+# 1)  OYUNUN AMACI:
 Oyunumuzun amacı hesaplama yeteneği, zeka ve dikkat üzerinde yoğunlaşıp bunları ölçmeye dair bir sistem hazırlamak. Bundan yola çıkarak oyunda verilen bir matematik işlemini (hesaplama yeteneği) çözmek (hafıza) ve sistemde hareket halindeki toplara isabetli bir şekilde atış yapmak(dikkat). 
 Bu üç özelliği ön planda tutarak çalışanları sıkmadan onların seviyelerini rahat ve etkili bir biçimde belirlemenin yolunu bulmuş oluyoruz. 
 Oyunumuz işlem başına 10 saniyelik süre kısıtlaması barındırıyor.
 Toplam oyun süresi de 60 saniye belirend
 
-# 2) ÖLÇÜM :
+# 2) ÖLÇÜM:
 -İşlem Yeteneği:
 Oyunun alt kısmında verilen çarpma ve toplama işlemeni yapması ile ölçülendirilecek.
 
