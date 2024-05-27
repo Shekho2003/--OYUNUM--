@@ -35,6 +35,7 @@ Yanlış cevaba ise -20 puan ele ediyor.
 
 # ANA-MENÜ 
 1.OYUNA BUTTON 2.AYARLAR 3.ÇIKIŞ
+
 ![Baslangıc](https://i.hizliresim.com/dsout7n.png) 
 
 
