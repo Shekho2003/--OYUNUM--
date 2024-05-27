@@ -15,6 +15,16 @@ Oyunun alt kısmında verilen çarpma ve toplama işlemeni yapması ile ölçül
 -Dikkat:
 Hareket halindeki yuvarlakların tam içerisine doğru hedef almaya dikkat etmek.
 
+# 3) Puanlama :
+Her doğru cevap atışında 20 puan elde ediyor. 
+Yanlış cevaba ise -20 puan ele ediyor.
+200< puan: Tam Başarılı 
+200-160 puan: Başarılı 
+160-120 puan: Kısmen Başarılı
+120-100 puan: Orta
+100-80 puan: Sınırda
+80> puan: Başarısız
+
 
 
 ![Baslangıc](https://i.hizliresim.com/dsout7n.png) 
