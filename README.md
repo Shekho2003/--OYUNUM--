@@ -65,6 +65,9 @@ dönen Roket 6. Uzay tabak
 #Son panelimiz oyunun gerisayımın bittiği gibi dogru, yanlış, puanı 
 ve tekrar oyuna başlamamızı sağlamaktadır
 
+# Oyunumuzu Görelim ->
+Video: https://youtu.be/Z00Lx8M9vmo?si=LwaVQbbdpJyqTsQA
+
 
 
 
