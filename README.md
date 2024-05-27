@@ -1,9 +1,19 @@
 # --OYUNUM--
-# OYUNUN AMACI:
+# 1) OYUNUN AMACI:
 Oyunumuzun amacı hesaplama yeteneği, zeka ve dikkat üzerinde yoğunlaşıp bunları ölçmeye dair bir sistem hazırlamak. Bundan yola çıkarak oyunda verilen bir matematik işlemini (hesaplama yeteneği) çözmek (hafıza) ve sistemde hareket halindeki toplara isabetli bir şekilde atış yapmak(dikkat). 
 Bu üç özelliği ön planda tutarak çalışanları sıkmadan onların seviyelerini rahat ve etkili bir biçimde belirlemenin yolunu bulmuş oluyoruz. 
 Oyunumuz işlem başına 10 saniyelik süre kısıtlaması barındırıyor.
 Toplam oyun süresi de 60 saniye belirend
+
+# 2) Ölçüm :
+-İşlem Yeteneği:
+Oyunun alt kısmında verilen çarpma ve toplama işlemeni yapması ile ölçülendirilecek.
+-Hafıza:
+Çözülen işlemin cevabını işlem başına verilen sürede çözüp doğru yuvarlağı işaretlemek.
+-Dikkat:
+Hareket halindeki yuvarlakların tam içerisine doğru hedef almaya dikkat etmek.
+
+
 
 ![Baslangıc](https://i.hizliresim.com/dsout7n.png) 
 ANA-MENÜ 
