@@ -24,6 +24,12 @@ dönen Roket 6. Uzay tabak
 #Soruya ayrılan süreyi bitince direk yukarda berittiğimiz
 2.durumu (yanlış işareti ekrana göstermektedir).
 
+![Baslangıc](https://i.hizliresim.com/12x0o20.png)
+4.SON panel
+#Son panelimiz oyunun gerisayımın bittiği gibi dogru, yanlış, puanı 
+ve tekrar oyuna başlamamızı sağlamaktadır
+
+
 
 
 
