@@ -1,7 +1,7 @@
 # Oyunumuzu Görelim ->
 Video: https://youtu.be/Z00Lx8M9vmo?si=LwaVQbbdpJyqTsQA
 
-# ______________________________________________________
+# ________________________________________________
 
 # CARPARİM OYUNU
 Oyunumuzun amacı hesaplama yeteneği, zeka ve dikkat üzerinde yoğunlaşıp bunları ölçmeye dair bir sistem hazırlamak. Bundan yola çıkarak oyunda verilen bir matematik işlemini (hesaplama yeteneği) çözmek (hafıza) ve sistemde hareket halindeki toplara isabetli bir şekilde atış yapmak(dikkat). 
@@ -35,7 +35,7 @@ Yanlış cevaba ise -20 puan ele ediyor.
 
 -80> puan: Başarısız
 
-# ______________________________________________________
+# ________________________________________________
 
 
 # - Oyunun Arayüz Tasarımı -
