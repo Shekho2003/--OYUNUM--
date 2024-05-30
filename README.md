@@ -1,5 +1,5 @@
 # Oyunumuzu Görelim ->
-*Video:* https://youtu.be/Z00Lx8M9vmo?si=LwaVQbbdpJyqTsQA
+**Video:** https://youtu.be/Z00Lx8M9vmo?si=LwaVQbbdpJyqTsQA
 
 # ________________________________________________
 
