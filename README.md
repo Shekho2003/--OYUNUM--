@@ -81,6 +81,16 @@ Oyunumuz, işlem başına 10 saniyelik süre kısıtlaması barındırmaktadır.
 
 - Son panel, oyunun geri sayımının bittiği an doğru, yanlış cevapları ve puanı gösterir. Ayrıca, tekrar oyuna başlamanızı sağlar.
 
+## İletişim
+
+- **Instagram:** [@yourinstagramhandle](https://www.instagram.com/yourinstagramhandle/)
+- **E-posta:** your-email@example.com
+- **Telefon:** +90 555 555 5555
+
+---
+
+Bu GitHub README dosyası oyun hakkında kapsamlı bir şekilde bilgi vermektedir.
+
 ![Son Panel](https://i.hizliresim.com/12x0o20.png)
 
 ---
