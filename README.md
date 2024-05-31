@@ -90,7 +90,7 @@ Bu GitHub README dosyası oyun hakkında kapsamlı bir şekilde bilgi vermektedi
 
 ## İletişim
 
-- **Instagram:** [@yourinstagramhandle](https://www.instagram.com/yourinstagramhandle/)
+- **Instagram:** [@aliseyho_](https://www.instagram.com/aliseyho_?igsh=aGx0bXZkMjE4aGh5)
 - **E-posta:** your-email@example.com
 - **Telefon:** +90 555 555 5555
 
