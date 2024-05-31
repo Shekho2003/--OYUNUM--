@@ -91,8 +91,8 @@ Bu GitHub README dosyası oyun hakkında kapsamlı bir şekilde bilgi vermektedi
 ## İletişim
 
 - **Instagram:** [@aliseyho_](https://www.instagram.com/aliseyho_?igsh=aGx0bXZkMjE4aGh5)
-- **E-posta:** your-email@example.com
-- **Telefon:** +90 555 555 5555
+- **E-posta:** ali2003seyho@gmail.com
+- **Telefon:** +90 53 426 57 001
 
 ---
 
