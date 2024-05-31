@@ -4,6 +4,14 @@
 
 ---
 
+## İletişim
+
+- **Instagram:** [@aliseyho_](https://www.instagram.com/aliseyho_?igsh=aGx0bXZkMjE4aGh5)
+- **E-posta:** ali2003seyho@gmail.com
+- **Telefon:** +90 53 426 57 001
+
+---
+
 # CARPARİM OYUNU
 
 Oyunumuzun amacı, hesaplama yeteneği, zeka ve dikkat üzerine yoğunlaşıp bunları ölçmeye dair bir sistem hazırlamaktır. Oyunda verilen bir matematik işlemini (hesaplama yeteneği) çözmek (hafıza) ve sistemde hareket halindeki toplara isabetli bir şekilde atış yapmak (dikkat) gerekmektedir. Bu üç özelliği ön planda tutarak, çalışanları sıkmadan seviyelerini rahat ve etkili bir biçimde belirlemenin yolunu bulmuş oluyoruz.
@@ -88,12 +96,5 @@ Bu GitHub README dosyası oyun hakkında kapsamlı bir şekilde bilgi vermektedi
 
 ---
 
-## İletişim
-
-- **Instagram:** [@aliseyho_](https://www.instagram.com/aliseyho_?igsh=aGx0bXZkMjE4aGh5)
-- **E-posta:** ali2003seyho@gmail.com
-- **Telefon:** +90 53 426 57 001
-
----
 
 Bu GitHub README dosyası oyun hakkında kapsamlı bir şekilde bilgi vermektedir.
