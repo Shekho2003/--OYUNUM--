@@ -1,3 +1,5 @@
+<span style="color:red">Bu kırmızı bir metindir.</span>
+
 # Oyunumuzu Görelim ->
 
 **Video:** [CARPARİM Oyunu Tanıtım Videosu](https://youtu.be/Z00Lx8M9vmo?si=LwaVQbbdpJyqTsQA)
